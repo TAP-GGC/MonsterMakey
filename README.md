@@ -6,7 +6,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 ## Students
 Samuel Downs,
 Jasmine Roach,
-Kevin Rubio,
+Kevin Rubio
 
 
 ## Publications
