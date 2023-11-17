@@ -25,6 +25,12 @@ Advisers: Dr.Robertson and Dr.Anca
 ## Technology
 The technology our project used was Audacity and Makey Makey. Audacity is a free open-source software for editing different audio. Makey Makey is a small circuit board that can hook up to any computer and use wire to hook to any item that can be used to conduct electricity.
 
+Makey Makey Picture
+![](Media/TechnologyPicture/MakeyMakey.jpg)
+
+Audacity Picture
+![](Media/TechnologyPicture/Audacity.png)
+
 ## Project setup/Installation
 1. Login to each computer in the classroom.
 2. Placed one set of Halloween Stories on every two computers.
