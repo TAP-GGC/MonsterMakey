@@ -29,7 +29,8 @@ Makey Makey Picture
 ![](Media/Pictures/IMG_1914.jpg)
 
 Audacity Picture
-![](Media/TechnologyPicture/Audacity2.jpeg)
+
+![](Media/Pictures/Audacity.png)
 
 ## Project setup/Installation
 1. Login to each computer in the classroom.
