@@ -14,7 +14,7 @@ Advisers: Dr.Robertson and Dr.Anca
 
 ## Publications
 1. Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges- Jasmine Roach, Kevin Rubio, Sam Downs, Anca Doloc Mihu, Cindy Robertson. Southeastern Region (CCSC: SE), November 2-4, 2023, Myrtle Beach, SC.
-2. CREATE Symposium Poster, November 30, 2023, GGC.
+2. Samuel Downs, Jasmine Roach, Kevin Rubio. (November 30, 2023) Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges. CREATE Symposium, Lawrenceville, Ga.
 
 ## Outreach Activities
 1. TAP Expo, Oct 10, 2023, Georgia Gwinnett College: To promote the IT field and the TAP program to college students.
