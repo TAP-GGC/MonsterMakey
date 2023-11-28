@@ -1,9 +1,9 @@
 # MonsterMakey
 
 ## About
-Monster Makey is a project about using sound audio for storytelling. The project is used to engage students and show how to edit audio in a software called, Audacity and how to produce sound through a technology called, Makey Makey. Our target audience is students who would be interested in STEM and possibly be interested in the TAP program. TAP is a Technology Ambassadors Program for students who are interested in Information Technology; the program lets students learn more about different technologies during their fun project [TAP Link](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program). Here is a link to our project demo [Monster Makey Demo](Media/ProjectDemo.md).
+Monster Makey is a project about using sound audio for storytelling. The project is used to engage students and show how to edit audio in a software called, Audacity and how to produce sound through a technology called, Makey Makey. Our target audience is students who would be interested in STEM and possibly be interested in the TAP program. TAP is a [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) for students who are interested in Information Technology; the program lets students learn more about different technologies during their fun project. Here is a link to our project demo [Monster Makey Demo](Media/ProjectDemo.md).
 
-## Students
+## Team
 Samuel Downs,
 Jasmine Roach,
 Kevin Rubio (from Left to Right)
@@ -13,13 +13,13 @@ Advisers: Dr.Robertson and Dr.Anca
 
 
 ## Publications
-1. CCSC Abstract- Jasmine Roach, Kevin Rubio, Sam Downs, Anca Doloc Mihu, Cindy Robertson. Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC: SE), November 2-4, 2023, Myrtle Beach, SC.
+1. Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges- Jasmine Roach, Kevin Rubio, Sam Downs, Anca Doloc Mihu, Cindy Robertson. Southeastern Region (CCSC: SE), November 2-4, 2023, Myrtle Beach, SC.
 2. CREATE Symposium Poster, November 30, 2023, GGC.
 
 ## Outreach Activities
 1. TAP Expo, Oct 10, 2023, Georgia Gwinnett College: To promote the IT field and the TAP program to college students.
 2. Super Saturday Series, Oct 28, 2023, Georgia Gwinnett College: Project demo to middle and high school girls to promote IT and STEM careers.
-3. Class Workshop, Oct 26, 2023, and Nov 10, 2023, Georgia Gwinnett College: Project demo to college students to be interested in the TAP program or IT major.
+3. 3 Class Workshops, Oct 26, 2023, and Nov 10, 2023, Georgia Gwinnett College: Project demo to college students to be interested in the TAP program or IT major.
 4. CREATE Symposium, Nov 30, 2023, Georgia Gwinnett College: Project demo and poster presentation at research event.
 
 ## Technology
