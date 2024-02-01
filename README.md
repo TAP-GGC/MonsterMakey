@@ -48,7 +48,7 @@ MaKey MaKey is an interactive controller that lets you transform everyday object
 ### Scratch
 Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool 
 ### Scratch Picture
-<img src= "Monster Makey Poster.pdf" width="400" height="200"> 
+<img src= "https://github.com/TechAmbassadors-GGC/MonsterMakey/files/14073499/Monster.Makey.Poster.pdf" width="400" height="200"> 
 
 ## Project setup/Installation
 1. Login to each computer in the classroom.
