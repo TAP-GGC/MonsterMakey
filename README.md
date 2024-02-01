@@ -20,7 +20,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 * Dr.Robertson
 * Dr.Anca
 ## Team Photo
-<img src= "Media/Pictures/20231028_130513.jpg" width="400" height="300">
+<img src= "Media/Pictures/20231028_130513.jpg" width="500" height="300">
 
 ## Publications
 1. Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges- Jasmine Roach, Kevin Rubio, Sam Downs, Anca Doloc Mihu, Cindy Robertson. Southeastern Region (CCSC: SE), November 2-4, 2023, Myrtle Beach, SC.
