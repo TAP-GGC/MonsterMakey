@@ -5,9 +5,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 ## Description
 1. Dificulty Level: Easy
 2. Target Audience: Middle school to college students
-3. Duration
-  1. Makey Makey/Scratch: 20 mins
-  2. Audacity: 30 mins
+3. Duration: 1 hour
 4. Materials Needed: Makey Makey, Horror Stories (Provided), Audacity (Free), Playdough
 5. Learning Outcomes: Students will learn new technologies such as Makey Makey and Audacity. Basic sound editing skills will be taught.
 6. The goal of this study is to introduce students to recording and editing sound files through a fun and interactive horror story Mad Lib activity. Our project includes narrative stories that feature sound effects and activated by the reader pushing a button to produce a given sound effect. These buttons were created using an interactive controller, Makey Makey, to accept input into a program we created in Scratch, a block coding website, to allow participants to produce sounds.
