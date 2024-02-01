@@ -43,7 +43,7 @@ Audacity is a free and open-source digital audio editor and recording applicatio
 ### Makey Makey
 MaKey MaKey is an interactive controller that lets you transform everyday objects into computer interfaces. 
 ### Makey Makey Picture
-<img src= "Media/Pictures/IMG_1914.jpg" width="200" height="200">
+<img src= "Media/Pictures/IMG_1914.jpg" width="300" height="200">
 
 ### Scratch
 Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool 
