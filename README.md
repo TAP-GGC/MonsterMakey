@@ -18,7 +18,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 Samuel Downs,
 Jasmine Roach,
 Kevin Rubio (from Left to Right)
-![](Media/Pictures/20231028_130513.jpg)
+<img src= "Media/Pictures/20231028_130513.jpg" width="400" height="200">
 Advisers: Dr.Robertson and Dr.Anca
 
 ## Publications
@@ -37,12 +37,12 @@ Our project includes narrative stories that feature sound effects created in Aud
 ### Audacity
 Audacity is a free and open-source digital audio editor and recording application software.
 Audacity Picture
-![](Media/Pictures/Audacity.png)
+<img src= "Media/Pictures/Audacity.png" width="400" height="200">
 
 ### Makey Makey
 MaKey MaKey is an interactive controller that lets you transform everyday objects into computer interfaces. 
 Makey Makey Picture
-![](Media/Pictures/IMG_1914.jpg)
+<img src= "Media/Pictures/IMG_1914.jpg" width="400" height="200">
 
 ### Scratch
 Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool 
