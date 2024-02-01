@@ -15,13 +15,14 @@ Monster Makey is a project about using sound audio for storytelling. The project
 8. VIDEO
 
 ## Team
-Samuel Downs,
-Jasmine Roach,
-Kevin Rubio (from Left to Right)
+* Samuel Downs
+* Jasmine Roach
+* Kevin Rubio (from Left to Right)
+## Advisers 
+* Dr.Robertson
+* Dr.Anca
+## Team Photo
 <img src= "Media/Pictures/20231028_130513.jpg" width="400" height="200">
-
-Advisers: Dr.Robertson and Dr.Anca
-
 ## Publications
 1. Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges- Jasmine Roach, Kevin Rubio, Sam Downs, Anca Doloc Mihu, Cindy Robertson. Southeastern Region (CCSC: SE), November 2-4, 2023, Myrtle Beach, SC.
 2. Samuel Downs, Jasmine Roach, Kevin Rubio. (November 30, 2023) Teaching Sound Editing with Audacity and Makey Makey, Consortium for Computing Sciences in Colleges. CREATE Symposium, Lawrenceville, Ga.
