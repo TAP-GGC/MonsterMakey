@@ -19,6 +19,7 @@ Samuel Downs,
 Jasmine Roach,
 Kevin Rubio (from Left to Right)
 <img src= "Media/Pictures/20231028_130513.jpg" width="400" height="200">
+
 Advisers: Dr.Robertson and Dr.Anca
 
 ## Publications
