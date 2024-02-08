@@ -59,7 +59,7 @@ Scratch is a high-level block-based visual programming language and website aime
 6. Add wire to different parts of the Makey Makey
 7. Add Play-Doh to the ends of the wires.
 
-## Short Demo Insrructions
+## Short Demo Instructions
 1. Have 1-3 computers logged in.
 2. Give each computer their own Halloween story
 3. Add unedited sounds, scratch files of Halloween stories, and presentation sounds onto each corresponding computer.
