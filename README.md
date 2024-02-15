@@ -70,6 +70,7 @@ Scratch is a high-level block-based visual programming language and website aime
 8. Let Students play with the sounds via Makey Makey.
 
 ## Workshop Instructions
+(Documents/Workshop Instructions.docx)
 1. Login to each computer in the classroom.
 2. Placed one set of Halloween Stories on every two computers.
 3. Add unedited sounds, scratch files of Halloween stories, and presentation sounds onto the computers.
