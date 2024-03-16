@@ -71,44 +71,4 @@ Scratch is a high-level block-based visual programming language and website aime
 
 ## Workshop Instructions
 https://github.com/TAP-GGC/MonsterMakey/blob/f914959afda87ed7fe254ef994ace75ef2f1e076/Documents/Workshop%20Instructions.docx 
-2. Placed one set of Halloween Stories on every two computers.
-3. Add unedited sounds, scratch files of Halloween stories, and presentation sounds onto the computers.
-4. Open the Scratch files onto Scratch.
-5. Plug Makey Makey to computer
-6. Add wire to different parts of the Makey Makey
-7. Add Play-Doh to the ends of the wires.
-8. Let Students play with the sounds via Makey Makey
-10. Open Audacity
-11. Click the File tab on the top left corner of the screen
-12. Click on import then audio
-13. Add the presentation sound
-14. At the top left of the screen, you can play/pause the sound(s)
-15. To select certain tracks to not play, you can mute the track (press the mute button under the name of the track)
-16. To only play a certain track, you can solo the track (press the solo button next to the mute button)
-17. By left-clicking and holding then releasing to either the left or the right (to select the whole track, click the blank part of the blueish-gray box)
-18. Select the first half of the scream
-19. Split the section, then delete the second half
-20. Then copy and paste the selection
-21. Click on the second section of the track and go to effect, special, and select reverse
-22. Select the whole track, then go to the edit tab, audio clips, join
-23. Unmute Tracks
-24. Go to File
-25. Go to export, then export multiple
-26. Choose .mp3, as the "spilt files on"
-27. Name Files using track names
-28. Go to Scratch website
-29. Click the "Create" button on the top left
-30. Click the "Add extension" button on the bottom left
-31. Then Click Makey Makey
-32. Click the File tab on Scratch
-33. Then "Load From Your Computer"
-34. Add the .sb3 file to scratch
-35. Use Makey Makey, plug USB to the computer
-36. Hold one playdoh down that's connected to earth with one hand then tap the other playdoh with the other hand
-37. Sound should play after tapping other playdoh
-38. Now click the sound icon
-39. Click the upload button and upload your sound effect
-40. Then use Makey Makey again with the new sound that was edited.
-
-
 
