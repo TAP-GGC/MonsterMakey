@@ -38,37 +38,14 @@ Our project includes narrative stories that feature sound effects created in Aud
 
 ### Audacity
 Audacity is a free and open-source digital audio editor and recording application software.
-### Audacity Picture
-<img src= "Media/Pictures/Audacity.png" width="200" height="200">
-
-### Makey Makey
-MaKey MaKey is an interactive controller that lets you transform everyday objects into computer interfaces. 
-### Makey Makey Picture
-<img src= "Media/Pictures/IMG_1914.jpg" width="300" height="200">
-
-### Scratch
-Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool 
-### Scratch Picture
-<img src= "Media/Pictures/Scratch image.png" width="400" height="200"> 
+| <img src="Media/Pictures/Audacity.png" width="200" height="200">|<img src= "Media/Pictures/IMG_1914.jpg" width="300" height="200">|<img src= "Media/Pictures/Scratch image.png" width="400" height="200"><br>
+| :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
 
 ## Project setup/Installation
-1. Login to each computer in the classroom.
-2. Placed one set of Halloween Stories on every two computers.
-3. Add unedited sounds, scratch files of Halloween stories, and presentation sounds onto the computers.
-4. Open the Scratch files onto Scratch.
-5. Plug Makey Makey to computer
-6. Add wire to different parts of the Makey Makey
-7. Add Play-Doh to the ends of the wires.
+[Project Setup.pdf](https://github.com/TAP-GGC/MonsterMakey/files/14656855/Project.Setup.pdf)
 
 ## Short Demo Instructions
-1. Have 1-3 computers logged in.
-2. Give each computer their own Halloween story
-3. Add unedited sounds, scratch files of Halloween stories, and presentation sounds onto each corresponding computer.
-4. Open the Scratch files onto Scratch.
-5. Plug Makey Makey to computer
-6. Add wire to different parts of the Makey Makey
-7. Add Play-Doh to the ends of the wires.
-8. Let Students play with the sounds via Makey Makey.
+[Monster Makey Demo Instructions.pdf](https://github.com/TAP-GGC/MonsterMakey/files/14655509/Monster.Makey.Demo.Instructions.pdf)
 
 ## Workshop Instructions
 https://github.com/TAP-GGC/MonsterMakey/blob/f914959afda87ed7fe254ef994ace75ef2f1e076/Documents/Workshop%20Instructions.docx 
