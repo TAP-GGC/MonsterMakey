@@ -40,6 +40,7 @@ Our project includes narrative stories that feature sound effects created in Aud
 Audacity is a free and open-source digital audio editor and recording application software.
 | <img src="Media/Pictures/Audacity.png" width="200" height="200">|<img src= "Media/Pictures/IMG_1914.jpg" width="300" height="200">|<img src= "Media/Pictures/Scratch image.png" width="400" height="200"><br>
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
+|<a href = "https://www.audacityteam.org">Audacity</a>|||
 
 ## Project setup/Installation
 [Project Setup.pdf](https://github.com/TAP-GGC/MonsterMakey/files/14656855/Project.Setup.pdf)
