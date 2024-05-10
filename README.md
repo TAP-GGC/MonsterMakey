@@ -54,9 +54,10 @@ Audacity is a free and open-source digital audio editor and recording applicatio
 ## Workshop Instructions
 [Workshop Instructions.pdf](https://github.com/TAP-GGC/MonsterMakey/files/14729146/Workshop.Instructions.pdf)
 
-## Workshop Video
+## Project Videos
 
-1. [Video for Audacity part of the workshop](https://youtu.be/4wJp5NOrG9k)
-2. [Video for setting-up MakeyMakey](https://youtu.be/4wJp5NOrG9k)
+1. [Project Demo](https://youtu.be/v48wo3d30LI)
+2. [Video for Audacity part of the workshop](https://youtu.be/4wJp5NOrG9k)
+3. [Video for setting-up MakeyMakey](https://youtu.be/4wJp5NOrG9k)
 
 [Workshop Video](https://youtu.be/Ld8yQ3rw0JY?si=VjPyTTgM8oEz1B_e)
