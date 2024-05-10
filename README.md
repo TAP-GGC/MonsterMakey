@@ -1,7 +1,9 @@
 # Teaching Sound Editing with Audacity and Makey Makey 
 ## About
 Monster Makey is a project about using sound audio for storytelling. The project is used to engage students and show how to edit audio in a software called, Audacity and how to produce sound through a technology called, Makey Makey. Our target audience is students who would be interested in STEM and possibly be interested in the TAP program. TAP is a [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) for students who are interested in Information Technology; the program lets students learn more about different technologies during their fun project. Here is a link to our project demo [Monster Makey Demo](https://youtu.be/LOmdjDbBOMs).
-![Monster Makey Demo](https://github.com/TAP-GGC/MonsterMakey/Media/Pictures/Thumnail.PNG)
+
+
+<img src="Media//Pictures/Thumnail.PNG" width="200" height="200">
 
 ## Description
 1. Dificulty Level: Easy
