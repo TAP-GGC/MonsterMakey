@@ -1,9 +1,6 @@
 # Teaching Sound Editing with Audacity and Makey Makey 
 ## About
-Monster Makey is a project about using sound audio for storytelling. The project is used to engage students and show how to edit audio in a software called, Audacity and how to produce sound through a technology called, Makey Makey. Our target audience is students who would be interested in STEM and possibly be interested in the TAP program. TAP is a [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) for students who are interested in Information Technology; the program lets students learn more about different technologies during their fun project. Here is a link to our project demo [Monster Makey Demo](https://youtu.be/LOmdjDbBOMs).
-
-
-<img src="Media//Pictures/Thumnail.PNG" width="400">
+Monster Makey is a project about using sound audio for storytelling. The project is used to engage students and show how to edit audio in a software called, Audacity and how to produce sound through a technology called, Makey Makey. Our target audience is students who would be interested in STEM and possibly be interested in the TAP program. TAP is a [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) for students who are interested in Information Technology; the program lets students learn more about different technologies during their fun project. 
 
 ## Description
 1. Dificulty Level: Easy
@@ -14,6 +11,9 @@ Monster Makey is a project about using sound audio for storytelling. The project
 6. The goal of this study is to introduce students to recording and editing sound files through a fun and interactive horror story Mad Lib activity. Our project includes narrative stories that feature sound effects and activated by the reader pushing a button to produce a given sound effect. These buttons were created using an interactive controller, Makey Makey, to accept input into a program we created in Scratch, a block coding website, to allow participants to produce sounds.
 7. The TAP program is a program for anyone with an interest in Information Technology. The program lets students learn more about different technologies while creating outreach workshops to promote an interest in STEM in their community. The creation and implementation of these workshops will allow TAP students to develop better communication and leadership skills while also letting students be creative in designing their projects. The TAP program promotes the acquisition of research skills and encourages students to attend conferences to present their projects. Student would then move onto editing and creating their own sounds through Audacity.
 8. Commercial Video - (Monster Makey Commercial)
+
+Video 
+![<img src="Media//Pictures/Thumnail.PNG" width="400">](Monster Makey Demo](https://youtu.be/LOmdjDbBOMs).
 
 ## Team
 * Samuel Downs
