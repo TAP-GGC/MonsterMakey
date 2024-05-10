@@ -55,4 +55,7 @@ Audacity is a free and open-source digital audio editor and recording applicatio
 [Workshop Instructions.pdf](https://github.com/TAP-GGC/MonsterMakey/files/14729146/Workshop.Instructions.pdf)
 
 ## Workshop Video
+
+![Video for Audacity part of the workshop](https://youtu.be/4wJp5NOrG9k)
+
 [Workshop Video](https://youtu.be/Ld8yQ3rw0JY?si=VjPyTTgM8oEz1B_e)
