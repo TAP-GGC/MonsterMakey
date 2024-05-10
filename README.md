@@ -56,7 +56,7 @@ Audacity is a free and open-source digital audio editor and recording applicatio
 
 ## Workshop Video
 
-[Video for Audacity part of the workshop](https://youtu.be/4wJp5NOrG9k)
-[Video for setting-up MakeyMakey](https://youtu.be/4wJp5NOrG9k)
+1. [Video for Audacity part of the workshop](https://youtu.be/4wJp5NOrG9k)
+2. [Video for setting-up MakeyMakey](https://youtu.be/4wJp5NOrG9k)
 
 [Workshop Video](https://youtu.be/Ld8yQ3rw0JY?si=VjPyTTgM8oEz1B_e)
