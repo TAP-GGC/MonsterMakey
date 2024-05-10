@@ -10,9 +10,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 5. Learning Outcomes: Students will learn new technologies such as Makey Makey and Audacity. Basic sound editing skills will be taught.
 6. The goal of this study is to introduce students to recording and editing sound files through a fun and interactive horror story Mad Lib activity. Our project includes narrative stories that feature sound effects and activated by the reader pushing a button to produce a given sound effect. These buttons were created using an interactive controller, Makey Makey, to accept input into a program we created in Scratch, a block coding website, to allow participants to produce sounds.
 7. The TAP program is a program for anyone with an interest in Information Technology. The program lets students learn more about different technologies while creating outreach workshops to promote an interest in STEM in their community. The creation and implementation of these workshops will allow TAP students to develop better communication and leadership skills while also letting students be creative in designing their projects. The TAP program promotes the acquisition of research skills and encourages students to attend conferences to present their projects. Student would then move onto editing and creating their own sounds through Audacity.
-8. Commercial Video - (Monster Makey Commercial)
-
-Video 
+8. Monster Makey Project Teaser Video (click on the image)
 [<img src= "Media//Pictures/Thumnail.PNG" width="400">](https://youtu.be/LOmdjDbBOMs)
 
 ## Team
