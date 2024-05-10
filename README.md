@@ -13,7 +13,7 @@ Monster Makey is a project about using sound audio for storytelling. The project
 8. Commercial Video - (Monster Makey Commercial)
 
 Video 
-[<img src= "Media//Pictures/Thumnail.PNG" width="400"](https://youtu.be/LOmdjDbBOMs)
+[<img src= "Media//Pictures/Thumnail.PNG" width="400">](https://youtu.be/LOmdjDbBOMs)
 
 ## Team
 * Samuel Downs
